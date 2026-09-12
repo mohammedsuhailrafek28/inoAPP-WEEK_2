@@ -36,14 +36,9 @@ yarn-error.log*
 .env.*
 !.env.example
 
-# local agent instructions and scratch space
-AGENTS.md
-agents.md
-CLAUDE.md
-claude.md
-.claude/
-.gemini/
+# local scratch space
 scratchpad/
+
 
 # temporary verification and debug artifacts
 screenshots/
